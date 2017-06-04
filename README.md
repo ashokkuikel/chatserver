@@ -1,2 +1,0 @@
-# chatserver
-secure chat server
